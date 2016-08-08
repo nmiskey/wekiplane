@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<OSCInputGroup>
+  <oscMessage>/t3d/tch1</oscMessage>
+  <numInputs>4</numInputs>
+  <groupName>Inputs</groupName>
+  <inputNames>
+    <string>tch1-1</string>
+    <string>tch1-2</string>
+    <string>tch1-3</string>
+    <string>tch1-4</string>
+  </inputNames>
+</OSCInputGroup>
